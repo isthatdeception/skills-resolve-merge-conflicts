@@ -1,3 +1,5 @@
 # References
 
-* octocat 1 😈
+``` javascript
+console.log("Hello Conflict");
+```
